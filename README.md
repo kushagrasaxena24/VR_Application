@@ -1,0 +1,3 @@
+# VR_Application
+
+We developed a VR application which provides the user with a whole VR experience. The user is a boy aged between 14-18 years. The experience starts with the doctor's office and then the user goes on to experience a whole day in the life of a type-1 diabetic patient.  Through this VR experience, we wish to raise awareness when it comes to daily eating habits and working out. The user will also learn the benefits of a continuous glucose monitor (CGM) over a normal glucose checking device. From this project, we aim at providing the user with the message that you have to eat healthily and workout in order to remain within the safe range of glucose level and you should use a CGM to make sure that you are within the safe range of glucose levels.

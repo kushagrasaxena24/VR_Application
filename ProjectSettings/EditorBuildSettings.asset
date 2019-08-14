@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 2e8e7069bd21d4a6db568af61559f524
+  - enabled: 1
+    path: Assets/House_On_The_Lake/House_on_the_lake_scene.unity
+    guid: da76972cb4336d2488e74c69602c7c0e
+  - enabled: 0
+    path: Assets/Cafeteri.unity
+    guid: a743e29fbaebe48829074f03f0f7c69e
+  - enabled: 1
+    path: Assets/Scenes/Cafetaria.unity
+    guid: 1803c22b4f581405e823f7749ccd62ef
+  - enabled: 1
+    path: Assets/Gym.unity
+    guid: 9599101d2379546d194e12ea28676f7d
+  - enabled: 1
+    path: Assets/Speedometer/GameScene_Speedometer.unity
+    guid: 7b983534fcd6adb4d8ec50e55837c14a
+  - enabled: 1
+    path: Assets/Scenes/AfterBreakFast.unity
+    guid: 0786b0658730b499a9c8f4e50d255736
+  - enabled: 1
+    path: Assets/Meter2/Meter2.unity
+    guid: f6769f24648d647258c8b8882436a04b
+  - enabled: 1
+    path: Assets/Meter3/Meter3.unity
+    guid: 32015e64b9460409bb9636c41dfc27ed
+  - enabled: 1
+    path: Assets/Scenes/CafetariaAfterLunch.unity
+    guid: 337bd246861374d8ca23c483b9002837
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: 3e0887e46f13f41438a1dc64cb97e34e
+  m_configObjects: {}
